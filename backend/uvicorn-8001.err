@@ -1,0 +1,61 @@
+INFO:     Started server process [31400]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     ('127.0.0.1', 49985) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.ad_fKw._iBbOK4RVsqVn43jF5LcO7o-sDQ" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
+INFO:     ('127.0.0.1', 56715) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.ad_fKw._iBbOK4RVsqVn43jF5LcO7o-sDQ" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
+INFO:     ('127.0.0.1', 50441) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKHWQ.cn-2_g5Z5sacFOt9JSofS3YdIag" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 51594) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKHjQ.iYseGmMvrk-6u5kXlPGijnJFbmo" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 62566) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKIXw.QVy69HO1SdcRv87FLBbJ7R1CzdQ" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 59734) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKJuQ.ZXWE9FfiuZmQGWP2OV4cB10x7Rs" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 54001) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKKRA.jBXK9w0W4bRK57E1XEzwNtYQqJ0" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 57957) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKLfw.0KNAxfLt9Hk6UXbrflliqtQyAsE" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 49407) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKMaA.YehLWhVafSew3ZCgBtw4i9VfCZ4" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 57306) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKMlQ.xrL9OFtvVqc0etOEkANufkOp_kU" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 57480) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKN9Q.UQthl84YXSDwtQx6Dx3NX-GEUnU" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 52225) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKOYA.OW-B2iydX13tWPtqOlWDFu_qu1s" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 58362) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKOYA.OW-B2iydX13tWPtqOlWDFu_qu1s" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
+INFO:     ('127.0.0.1', 51709) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKOYA.OW-B2iydX13tWPtqOlWDFu_qu1s" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
+INFO:     ('127.0.0.1', 58197) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeKOYA.OW-B2iydX13tWPtqOlWDFu_qu1s" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
+INFO:     ('127.0.0.1', 52007) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeR1yw.7-APlgg7p92CQPjTfI9Ksb_JPUg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 53819) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeR18Q.Nf9qdpL1hKyS_JI4ZYI62ReXI3s" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 63186) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeR22A.g2TUvYAHhuUYIKhPd64dUaKm4_A" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 60568) - "WebSocket /ws/dashboard?token=eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIn0.aeR22A.g2TUvYAHhuUYIKhPd64dUaKm4_A" [accepted]
+INFO:     connection open
+INFO:     connection closed
